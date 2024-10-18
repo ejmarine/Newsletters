@@ -1,1 +1,5 @@
 # LBCSI Newsletters
+
+Loyola Blakefield Cyber Security Informatics is a student run initiative at Loyola Blakefield in Towson, Maryland. It provides students with real world skills required by today’s fast-growing employers and offers on the most advanced opportunities to apply those skills in the classroom. This program further enables students to test drive their future careers by participating in many student-led projects, national competitions, and local internship opportunities.
+
+In order to keep sponsors and parents up-to-date on the accomplishments of the club memebers, LBCSI's Field Operations team writes Seasonal newsletters and distributes them. This includes international competitions, sponsorships, and the group's yearly CTF competition, LBC2. From Spring of 2022 to Spring of 2024, I worked as Field Operations Lead, talking to sponsors, presenting on digital safety at Middle Schools in the area, and writing these newsletters.
